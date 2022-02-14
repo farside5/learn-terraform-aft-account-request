@@ -11,7 +11,7 @@ module "sandbox" {
   }
 
   account_tags = {
-    "Learn Tutorial" = "AFT"
+    "Version" = "Re-enroll"
   }
 
   change_management_parameters = {
